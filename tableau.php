@@ -4,7 +4,7 @@
             $jeu[1] = 'crash';
             $jeu[2] = 'tetris';
 
-            echo $jeu[];
+            echo $jeu[0];
 
             $mario['type'] = 'plateforme';
             $mario['console'] = 'nintendo';
