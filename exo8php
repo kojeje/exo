@@ -1,0 +1,5 @@
+<?php
+$nbre=7;
+if ($nbre%2) echo "paire";
+else echo "impaire";
+?>
